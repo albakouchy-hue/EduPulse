@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tool-btn {
+  @apply bg-blue-200 hover:bg-blue-300 p-4 rounded text-right;
+}
